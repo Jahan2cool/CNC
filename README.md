@@ -1,11 +1,19 @@
 Quantities
 
-4 - part141
+2 - sidePlates
 
-4 - SidePoly
+4 - frontCorners
 
-4 - backcorners
+5 - intake
 
-2 - sideplates
+3 - gearboxBracket
 
-4 - topfrontcorners
+2 - thatonelbmount
+
+2 - wedge
+
+5 - 2ndpreroller
+
+3 - backBottomCorners
+
+5 - goofySidePoly
